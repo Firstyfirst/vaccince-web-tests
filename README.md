@@ -35,3 +35,4 @@ In my prespective, the robotframework is one of conveniecne testing framework fo
   
   * SeleniumLibrary-RobotFramework : https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
   * How to use robotframework : https://www.lambdatest.com/blog/robot-framework-tutorial/
+  * Overall about basic robotframework : https://www.tutorialspoint.com/robot_framework/index.htm
